@@ -1,0 +1,15 @@
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\bin\Debug\net6.0\datastructures 1 lab.exe
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\bin\Debug\net6.0\datastructures 1 lab.deps.json
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\bin\Debug\net6.0\datastructures 1 lab.runtimeconfig.json
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\bin\Debug\net6.0\datastructures 1 lab.dll
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\bin\Debug\net6.0\datastructures 1 lab.pdb
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\obj\Debug\net6.0\datastructures 1 lab.csproj.AssemblyReference.cache
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\obj\Debug\net6.0\datastructures 1 lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\obj\Debug\net6.0\datastructures 1 lab.AssemblyInfoInputs.cache
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\obj\Debug\net6.0\datastructures 1 lab.AssemblyInfo.cs
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\obj\Debug\net6.0\datastructures 1 lab.csproj.CoreCompileInputs.cache
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\obj\Debug\net6.0\datastructures 1 lab.dll
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\obj\Debug\net6.0\refint\datastructures 1 lab.dll
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\obj\Debug\net6.0\datastructures 1 lab.pdb
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\obj\Debug\net6.0\datastructures 1 lab.genruntimeconfig.cache
+C:\Users\Youngerbrother\source\repos\datastructures 1 lab\datastructures 1 lab\obj\Debug\net6.0\ref\datastructures 1 lab.dll
